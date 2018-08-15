@@ -1,0 +1,43 @@
+header, footer {
+  text-align: center;
+}
+title {
+  font: Icelandic thorns;
+}
+body {
+  background-color: #fef99ff;
+  font-family: arial, helvetica, sans-serif;
+  color: #0d1f2d
+  max-width: 900px;
+  margin: 0 auto;
+}
+th {
+  font-size: 1.5em;
+}
+#aboutMe {
+  background-color: pink;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  font-weight: bold;
+}
+a:active {
+  <!--text-decoration: uderline: -->
+}
+.body {
+  background-color: #333333;
+}
+
+.carousel-content {
+    color:black;
+    display:flex;
+    align-items:center;
+}
+
+#text-carousel {
+  width: 100%;
+  height: auto;
+  padding: 50px;
+}
